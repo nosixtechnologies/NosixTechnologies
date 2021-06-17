@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About Cookie
+title: About Nosix Technologies
 ---
 
-Cookie is a landing page site using [Tailwind CSS](https://www.tailwindcss.com/). You can learn more about customizing the site in `README.md` file in root directory of the project. You can learn more about Jekyll  at [jekyllrb.com](https://jekyllrb.com/)
+Nosix Technologies is a landing page site using [Tailwind CSS](https://www.tailwindcss.com/). You can learn more about customizing the site in `README.md` file in root directory of the project. You can learn more about Jekyll  at [jekyllrb.com](https://jekyllrb.com/)
 
-You can find the source code for cookie at GitHub:
+You can find the source code for Nosix Technologies at GitHub:
 [abhinavs](https://github.com/abhinavs) /
-[cookie](https://github.com/abhinavs/cookie)
+[Nosix Technologies](https://nosixtechnologies.com)
 
-Cookie is a Jekyll based static website for your next project. It uses Tailwind CSS and comes with
+Nosix Technologies is a Jekyll based static website for your next project. It uses Tailwind CSS and comes with
 1. Landing Page
 2. Blog
 3. Auxilarly Pages like Terms, Privacy Policy, Contact and About us.
@@ -19,19 +19,19 @@ All pages are responsive and mobile friendly.
 ## Why Jekyll?
 Jekyll is a static website generator - what it means is that in production, your site will be extremely fast because it has been 'compliled' into HTML pages while deployment. Separating your landing website from your app website is also useful because it takes away the load which otherwise your app website would have handled - it keeps your app website free.
 
-Cookie uses Tailwind 2.0 which is a good improvement over Tailwind 1.0.
+Nosix Technologies uses Tailwind 2.0 which is a good improvement over Tailwind 1.0.
 
 ## Soopr
 [Soopr][soopr-website] is the easiest way to for you add share reaction buttons to your blog and website, integrate an URL shortener and analytics service. Soopr lets you manage all of these using a powerful dashboard.
 
-Cookie uses Soopr for share and like buttons and is already integrated. By default, Cookie shows `circular` Twitter, Facebook and Copy buttons in `base` size. To add `like` button, please signup for free on [Soopr][soopr-website]
+Nosix Technologies uses Soopr for share and like buttons and is already integrated. By default, Nosix Technologies shows `circular` Twitter, Facebook and Copy buttons in `base` size. To add `like` button, please signup for free on [Soopr][soopr-website]
 
 Check out the [Soopr Website][soopr-website] for more info on how to get the most out of Soopr. 
 
 
 ## Installation
 1. Fork this repository.
-2. `cd cookie`
+2. `cd Nosix Technologies`
 3. `bin/bootstrap`
 
 ## Starting Server
